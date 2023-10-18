@@ -1,0 +1,11 @@
+
+#containt-Grid{
+    display: grid;
+    grid-template-columns: 200px 300px 200px;
+    row-gap: 20px;
+    column-gap: 30px;
+
+
+}
+
+
